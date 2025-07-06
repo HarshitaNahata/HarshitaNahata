@@ -7,8 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=HarshitaNahata&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
-- 🌱 I’m currently learning **React**  
-- 💬 Ask me about **Flutter, Node.js, Firebase**  
+- 🌱 I’m currently learning **Typescript and Django**  
+- 💬 Ask me about **Flutter, Node.js, Firebase, React**  
 - 📫 Reach me at **khushinahata04@gmail.com**
 
 ---
